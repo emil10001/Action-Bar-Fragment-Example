@@ -1,0 +1,4 @@
+This project was hacked together from various examples of fragments that I've found laying around the web. I needed something that I could reference and extend easily, using a straightforward framework. I think that I've delivered that here. If you've read up on Fragments, what's going on here should make some sense. I also wanted to use fragments that I didn't see in examples, so one is a webview - which does appear in [CommonsWare's](http://commonsware.com/) (commonsguy) [example](https://github.com/commonsguy/cw-android/tree/master/Fragments/EU4You_6), though mine is a bit different, and a grid view extending Fragment, which I have not seen at all. I also am setting the size of the images in the gridview programatically, which took me some digging to figure out how to do, finally found it on google's android blog.
+
+Requires ActionBarSherlock (v3.5.1) library to provide an action bar to any android 2.1 and up. Get library [here](http://actionbarsherlock.com)
+
