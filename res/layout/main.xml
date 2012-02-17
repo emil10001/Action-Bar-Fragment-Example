@@ -9,12 +9,12 @@
         android:layout_width="150dip"
         android:layout_height="match_parent"
         android:layout_marginTop="?android:attr/actionBarSize"
-        class="com.feigdev.fragmentex.Grid" ></fragment>
+        class="com.feigdev.fragmentex.GridFragment" ></fragment>
 
     <fragment
         android:id="@+id/web_login_main"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        class="com.feigdev.fragmentex.Web" >
+        class="com.feigdev.fragmentex.WebFragment" >
     </fragment>
 </LinearLayout>

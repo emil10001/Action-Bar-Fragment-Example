@@ -27,13 +27,13 @@ public class FragmentExampleActivity extends FragmentActivity implements ActionB
 		case 0:
 			getSupportFragmentManager()
 			.beginTransaction()
-			.replace(android.R.id.content, GridFragment.Grid.newInstance(itemPosition))
+			.replace(android.R.id.content, GridFragment.newInstance(itemPosition))
 			.commit();
 			break;
 		case 1:
 			getSupportFragmentManager()
 			.beginTransaction()
-			.replace(android.R.id.content, WebFragment.Web.newInstance(itemPosition))
+			.replace(android.R.id.content, WebFragment.newInstance(itemPosition))
 			.commit();
 			break;
 		}
