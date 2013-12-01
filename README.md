@@ -2,3 +2,4 @@ This project was hacked together from various examples of fragments that I've fo
 
 Requires ActionBarSherlock (v3.5.1) library to provide an action bar to any android 2.1 and up. Get library [here](http://actionbarsherlock.com)
 
+By <a href="plus.google.com/u/0/110693175237378228684?rel=author">E John Feig</a>
